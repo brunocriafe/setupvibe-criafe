@@ -1,6 +1,6 @@
 # SetupVibe Criafe
 
-Fork local do [SetupVibe](https://github.com/promovaweb/setupvibe) (GPL-3.0, de promovaweb.com) com uma **camada extra** da Criafe. O original continua intacto: nenhum arquivo dele foi alterado, tudo que é novo mora em `criafe/` e neste arquivo. Assim, puxar atualizações do original não gera conflito.
+Fork do [SetupVibe](https://github.com/promovaweb/setupvibe) (GPL-3.0, de promovaweb.com) com uma **camada extra** da Criafe. O original continua intacto: nenhum arquivo dele foi alterado, tudo que é novo mora em `criafe/` e neste arquivo. Assim, puxar atualizações do original não gera conflito.
 
 ## O que o original instala e o que esta camada acrescenta
 
